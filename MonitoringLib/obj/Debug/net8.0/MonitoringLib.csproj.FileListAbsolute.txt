@@ -1,0 +1,12 @@
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\MonitoringLib\bin\Debug\net8.0\MonitoringLib.deps.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\MonitoringLib\bin\Debug\net8.0\MonitoringLib.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\MonitoringLib\bin\Debug\net8.0\MonitoringLib.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\MonitoringLib\obj\Debug\net8.0\MonitoringLib.csproj.AssemblyReference.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\MonitoringLib\obj\Debug\net8.0\MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\MonitoringLib\obj\Debug\net8.0\MonitoringLib.AssemblyInfoInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\MonitoringLib\obj\Debug\net8.0\MonitoringLib.AssemblyInfo.cs
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\MonitoringLib\obj\Debug\net8.0\MonitoringLib.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\MonitoringLib\obj\Debug\net8.0\MonitoringLib.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\MonitoringLib\obj\Debug\net8.0\refint\MonitoringLib.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\MonitoringLib\obj\Debug\net8.0\MonitoringLib.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\MonitoringLib\obj\Debug\net8.0\ref\MonitoringLib.dll
