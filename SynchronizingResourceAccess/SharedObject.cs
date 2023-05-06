@@ -9,4 +9,6 @@ static class SharedObjects
     public static object Conch = new();
 
     public static string? Message; // a shared resource
+
+    public static int Counter; // another shared resource
 }
