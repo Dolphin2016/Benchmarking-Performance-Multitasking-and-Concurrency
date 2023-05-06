@@ -6,5 +6,7 @@ using System.Threading.Tasks;
 
 static class SharedObjects
 {
+    public static object Conch = new();
+
     public static string? Message; // a shared resource
 }
