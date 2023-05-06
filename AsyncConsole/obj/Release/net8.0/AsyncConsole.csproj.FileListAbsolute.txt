@@ -1,0 +1,15 @@
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\bin\Release\net8.0\AsyncConsole.exe
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\bin\Release\net8.0\AsyncConsole.deps.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\bin\Release\net8.0\AsyncConsole.runtimeconfig.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\bin\Release\net8.0\AsyncConsole.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\bin\Release\net8.0\AsyncConsole.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\obj\Release\net8.0\AsyncConsole.csproj.AssemblyReference.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\obj\Release\net8.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\obj\Release\net8.0\AsyncConsole.AssemblyInfoInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\obj\Release\net8.0\AsyncConsole.AssemblyInfo.cs
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\obj\Release\net8.0\AsyncConsole.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\obj\Release\net8.0\AsyncConsole.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\obj\Release\net8.0\refint\AsyncConsole.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\obj\Release\net8.0\AsyncConsole.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\obj\Release\net8.0\AsyncConsole.genruntimeconfig.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\AsyncConsole\obj\Release\net8.0\ref\AsyncConsole.dll
