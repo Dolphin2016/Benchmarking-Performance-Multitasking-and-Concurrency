@@ -20,4 +20,7 @@ taskA.Start();
 Task taskB = Task.Factory.StartNew(MethodB);
 Task taskC = Task.Run(MethodC);
 
+Task[] tasks = { taskA, taskB, taskC };
+Task.WaitAll(tasks);
+
 WriteLine($"{timer.ElapsedMilliseconds:#,##0}ms elapsed.");
