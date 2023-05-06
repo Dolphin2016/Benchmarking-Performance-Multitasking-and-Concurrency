@@ -1,0 +1,15 @@
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\bin\Release\net8.0\SynchronizingResourceAccess.exe
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\bin\Release\net8.0\SynchronizingResourceAccess.deps.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\bin\Release\net8.0\SynchronizingResourceAccess.runtimeconfig.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\bin\Release\net8.0\SynchronizingResourceAccess.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\bin\Release\net8.0\SynchronizingResourceAccess.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\obj\Release\net8.0\SynchronizingResourceAccess.csproj.AssemblyReference.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\obj\Release\net8.0\SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\obj\Release\net8.0\SynchronizingResourceAccess.AssemblyInfoInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\obj\Release\net8.0\SynchronizingResourceAccess.AssemblyInfo.cs
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\obj\Release\net8.0\SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\obj\Release\net8.0\SynchronizingResourceAccess.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\obj\Release\net8.0\refint\SynchronizingResourceAccess.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\obj\Release\net8.0\SynchronizingResourceAccess.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\obj\Release\net8.0\SynchronizingResourceAccess.genruntimeconfig.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\SynchronizingResourceAccess\obj\Release\net8.0\ref\SynchronizingResourceAccess.dll

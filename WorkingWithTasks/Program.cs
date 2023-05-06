@@ -1,6 +1,4 @@
-﻿
-
-using System.Diagnostics;
+﻿using System.Diagnostics;
 
 OutputThreadInfo();
 Stopwatch timer = Stopwatch.StartNew();
