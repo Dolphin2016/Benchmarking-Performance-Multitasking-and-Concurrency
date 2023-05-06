@@ -1,0 +1,15 @@
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\bin\Release\net8.0\WorkingWithTasks.exe
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\bin\Release\net8.0\WorkingWithTasks.deps.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\bin\Release\net8.0\WorkingWithTasks.runtimeconfig.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\bin\Release\net8.0\WorkingWithTasks.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\bin\Release\net8.0\WorkingWithTasks.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.csproj.AssemblyReference.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.AssemblyInfoInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.AssemblyInfo.cs
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\obj\Release\net8.0\refint\WorkingWithTasks.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\obj\Release\net8.0\WorkingWithTasks.genruntimeconfig.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter04\WorkingWithTasks\obj\Release\net8.0\ref\WorkingWithTasks.dll
